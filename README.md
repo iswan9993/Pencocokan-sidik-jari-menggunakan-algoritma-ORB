@@ -1,2 +1,2 @@
-# Pencocokan sidik jari menggunakan algoritma ORB
+# ORB (Oriented FAST and Rotated BRIEF)
 ORB
